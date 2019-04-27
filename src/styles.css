@@ -1,0 +1,4 @@
+.item {
+    background: 1px dotted black;
+    background-image: url('./images/img.svg')
+}
